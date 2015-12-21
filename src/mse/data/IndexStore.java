@@ -1,11 +1,6 @@
 package mse.data;
 
 import mse.common.*;
-import mse.common.ILogger;
-import mse.data.Author;
-import mse.data.AuthorIndex;
-
-import java.util.ArrayList;
 import java.util.HashMap;
 
 /**

@@ -1,5 +1,4 @@
 out/
+config.txt
+log.txt
 .idea/
-Config.txt
-Log.txt
-*.iml
